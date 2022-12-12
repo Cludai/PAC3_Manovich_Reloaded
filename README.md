@@ -7,7 +7,7 @@
 La llibreria sense censura (The Uncensored Library) és un projecte de Reporters Sense Fronteres basat en la lluita per la llibertat d'expressió pel que fa a la censura periodística. La llibreria se'n va inaugurar el dia 12 de març de 2020, en el Dia Mundial en Contra de la Ciber Censura.
 
 ![The Uncensored Library](https://hips.hearstapps.com/hmg-prod/images/screen-shot-2020-03-17-at-3-07-16-pm-1584471880.png "Façana exterior llibreria")
-[The Uncensored Library Official Video](https://youtu.be/EBI7-pL52GY "Video oficial")
+*[The Uncensored Library Official Video](https://youtu.be/EBI7-pL52GY "Video oficial")*
 
 Mitjançant un servidor del videojoc de construcció "Minecraft", s'ha desenvolupat una biblioteca a gran escala d'estil neoclàssic. Per accedir al hub virtual, cal descarregar-se el mapa des del lloc web oficial o bé connectar-se al servidor. Blockwork, una empresa creadora d'espais virtuals i experiències personalitzades a Minecraft, ha estat la responsable de la construcció de l'edifici de la llibreria virtual.
 
@@ -53,6 +53,8 @@ Pel que fa a l'estètica de presentació de cada Spotify Wrapped, aquesta canvia
 Aquestes històries es basen principalment en el color, on aquest està relacionat amb la portada de la cançó que s'estigui mostrant a la pantalla, per així mostrar a cada usuari una experiència única i personalitzada. La manera en què s'escullen els 3 colors representatius mitjançant la caràtula és gràcies a l'algoritme *CIEDE2000*, que relaciona els colors principals estrets d'aquesta amb la llista de color propis de Spotify.
 
 ![Spotify Wrapped](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6cca8d75636503.5cc63915cf565.jpg "Spotify Wrapped esquema de colors")
+*[Creació i disseny del Spotify Wrapped 2018](https://www.oneclub.org/awards/theoneshow/-award/32814/your-2018-wrapped "Spotify Wrapped - The One Club")*
+
 
 Es tracta d'un llenguatge visual interactiu que presenta una gran diversitat d'hibridació de medis com ara: imatges, música, text, gràfics de dades i motion graphics. A més, l'any 2021 es van introduir els vídeos i missatges per parts dels artistes als seus oients, la possibilitat de comparar els resultats amb els d'altres persones i fins i tot un joc. Aquesta addició es basava en el joc "dues mentides i una veritat" on els usuaris havien d'endevinar quina de les tres declaracions relacionades amb els seus resultats era correcta.
 
