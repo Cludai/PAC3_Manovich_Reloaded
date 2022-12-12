@@ -42,15 +42,23 @@ Spotify Wrapped és una campanya de màrqueting de la plataforma musical Spotify
 
 Presenta un format en forma d'històries, format introduït per Snapchat, basat en publicacions d'una durada de 24 h que es poden reproduir els cops que es vulguin abans que siguin esborrades del taulell de publicacions.
 
+![Spotify Wrapped](https://storage.googleapis.com/pr-newsroom-wp/1/2022/11/Audio-Day-Share-2.png "Spotify Wrapped 2022")
+
 La informació presentada en aquesta recopilació es basa en les cançons més escoltades, artistes més reproduïts, pòdcasts més escoltats i més des de l'1 de gener fins al 31 d'octubre. Aquesta data a més, es pot compartir en les diverses xarxes socials.
 
-Pel que fa a l'estètica de presentació de cada Spotify Wrapped, aquesta canvia anualment continuant així les tendències en disseny gràfic de cada any. Per exemple, l'estil de la campanya de 2018 es va basar en l'ús d'una tipografia bold i forts contrastos entre colors, en canvi, en la campanya del 2021 van fer servir l'"anti disseny", un corrent definit per la manca d'harmonia estètica. En aquest cas, ens centrarem en la campanya de 2018
+Pel que fa a l'estètica de presentació de cada Spotify Wrapped, aquesta canvia anualment continuant així les tendències en disseny gràfic de cada any. Per exemple, l'estil de la campanya de 2018 es va basar en l'ús d'una tipografia bold i forts contrastos entre colors, en canvi, en la campanya del 2021 van fer servir l'"anti disseny", un corrent definit per la manca d'harmonia estètica. En aquest cas, ens centrarem en la campanya de 2018.
+
+![Spotify Wrapped](https://metro.co.uk/wp-content/uploads/2021/12/PRC_213084227.jpg?quality=90&strip=all "Spotify Wrapped 2018")
 
 Aquestes històries es basen principalment en el color, on aquest està relacionat amb la portada de la cançó que s'estigui mostrant a la pantalla, per així mostrar a cada usuari una experiència única i personalitzada. La manera en què s'escullen els 3 colors representatius mitjançant la caràtula és gràcies a l'algoritme *CIEDE2000*, que relaciona els colors principals estrets d'aquesta amb la llista de color propis de Spotify.
+
+![Spotify Wrapped](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6cca8d75636503.5cc63915cf565.jpg "Spotify Wrapped esquema de colors")
 
 Es tracta d'un llenguatge visual interactiu que presenta una gran diversitat d'hibridació de medis com ara: imatges, música, text, gràfics de dades i motion graphics. A més, l'any 2021 es van introduir els vídeos i missatges per parts dels artistes als seus oients, la possibilitat de comparar els resultats amb els d'altres persones i fins i tot un joc. Aquesta addició es basava en el joc "dues mentides i una veritat" on els usuaris havien d'endevinar quina de les tres declaracions relacionades amb els seus resultats era correcta.
 
 A més de tractar-se d'una de les millors campanyes de màrqueting, Spotify Wrapped integra una gran diversitat de recursos per fer d'aquesta experiència única i sobretot interactiva. La presentació dels resultats anuals fa d'una simple recopilació de data una eina de publicitat gratuïta promocionada pels mateixos usuaris.
+
+![Spotify Wrapped](https://d26eb5y2jukpbz.cloudfront.net/ebs/archive/2019/large/OS_IN19002G_12.jpg "Spotify Wrapped 2018")
 
 Fins i tot, i a causa de l'aliança de Spotify amb el Futbol Club Barcelona, els fans també podran trobar aquest 2022 vídeos per part de jugadors com Robert Lewandowski, Alexia Putellas, Pedri i Ansu Fati.
 
