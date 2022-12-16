@@ -4,7 +4,7 @@
 
 ### The Uncensored Library
 
-La llibreria sense censura (*The Uncensored Library*) és un projecte de *Reporters Sense Fronteres* basat en la lluita per la llibertat d'expressió pel que fa a la censura periodística. La llibreria se'n va inaugurar el dia 12 de març de 2020, en el Dia Mundial en Contra de la Ciber Censura.
+La llibreria sense censura (*The Uncensored Library*) és un projecte de Reporters Sense Fronteres basat en la lluita per la llibertat d'expressió pel que fa a la censura periodística. La llibreria se'n va inaugurar el dia 12 de març de 2020, en el Dia Mundial en Contra de la Ciber Censura.
 
 ![The Uncensored Library](https://hips.hearstapps.com/hmg-prod/images/screen-shot-2020-03-17-at-3-07-16-pm-1584471880.png "Façana exterior llibreria")
 *[The Uncensored Library Official Video](https://youtu.be/EBI7-pL52GY "Video oficial")*
@@ -17,7 +17,7 @@ Com hem comentat de forma breu prèviament, *Minecraft* es basa en un joc de con
 
 ![The Uncensored Library](https://geekoutpost.com/wp-content/uploads/2020/03/uncensored_library_minecraft_docs.jpg "Exemples de llibres a la llibreria")
 
-A diferència dels llocs web de notícies o blogs, *Minecraft* és accessible als països més controlats envers la informació governamental, per tant, *Reporters Sense Fronteres* han aprofitat aquesta oportunitat per tal de fer aquesta informació accessible i evitar la censura a l'internet.
+A diferència dels llocs web de notícies o blogs, *Minecraft* és accessible als països més controlats envers la informació governamental, per tant, Reporters Sense Fronteres han aprofitat aquesta oportunitat per tal de fer aquesta informació accessible i evitar la censura a l'internet.
 
 *Minecraft* integra un contingut de medis diversos com ara un espai 3D navegable i interactiu, la possibilitat de jugar en línia amb altres persones a qualsevol part del món, banda sonora i efectes de so i, pel que fa al projecte de "*The Uncensored Library*" trobem també una plataforma d'autoria col·laborativa en llibres de text.
 
@@ -62,9 +62,9 @@ A més de tractar-se d'una de les millors campanyes de màrqueting, *Spotify Wra
 
 ![Spotify Wrapped](https://d26eb5y2jukpbz.cloudfront.net/ebs/archive/2019/large/OS_IN19002G_12.jpg "Spotify Wrapped 2018")
 
-Fins i tot, i a causa de l'aliança de *Spotify* amb el *Futbol Club Barcelona*, els fans també podran trobar aquest 2022 vídeos per part de jugadors com Robert Lewandowski, Alexia Putellas, Pedri i Ansu Fati.
+Fins i tot, i a causa de l'aliança de *Spotify* amb el Futbol Club Barcelona, els fans també podran trobar aquest 2022 vídeos per part de jugadors com Robert Lewandowski, Alexia Putellas, Pedri i Ansu Fati.
 
-La fusió de *motion graphics*, música, text i imatges fa que un simple pas de diapositives amb dades es converteixi en una experiència d'usuari única. Però el que més motiva als usuaris de *Spotify Prèmium*, és que cada any la plataforma proporciona una experiència diferent de la de qualsevol any.
+La fusió de *motion graphics*, música, text i imatges fa que un simple pas de diapositives amb dades es converteixi en una experiència d'usuari única. Però el que més motiva als usuaris de *Spotify Premium*, és que cada any la plataforma proporciona una experiència diferent de la de qualsevol any.
 
 ### Referències i Bibliografia
 
